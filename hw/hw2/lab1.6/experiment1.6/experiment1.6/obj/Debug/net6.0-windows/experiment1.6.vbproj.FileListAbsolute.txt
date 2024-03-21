@@ -1,0 +1,17 @@
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\experiment1.6\experiment1.6\bin\Debug\net6.0-windows\experiment1.6.exe
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\experiment1.6\experiment1.6\bin\Debug\net6.0-windows\experiment1.6.deps.json
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\experiment1.6\experiment1.6\bin\Debug\net6.0-windows\experiment1.6.runtimeconfig.json
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\experiment1.6\experiment1.6\bin\Debug\net6.0-windows\experiment1.6.dll
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\experiment1.6\experiment1.6\bin\Debug\net6.0-windows\experiment1.6.pdb
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\experiment1.6\experiment1.6\obj\Debug\net6.0-windows\experiment1.6.vbproj.AssemblyReference.cache
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\experiment1.6\experiment1.6\obj\Debug\net6.0-windows\experiment1._6.Form1.resources
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\experiment1.6\experiment1.6\obj\Debug\net6.0-windows\experiment1.6.vbproj.GenerateResource.cache
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\experiment1.6\experiment1.6\obj\Debug\net6.0-windows\experiment1.6.GeneratedMSBuildEditorConfig.editorconfig
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\experiment1.6\experiment1.6\obj\Debug\net6.0-windows\experiment1.6.AssemblyInfoInputs.cache
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\experiment1.6\experiment1.6\obj\Debug\net6.0-windows\experiment1.6.AssemblyInfo.vb
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\experiment1.6\experiment1.6\obj\Debug\net6.0-windows\experiment1.6.vbproj.CoreCompileInputs.cache
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\experiment1.6\experiment1.6\obj\Debug\net6.0-windows\experiment1.6.dll
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\experiment1.6\experiment1.6\obj\Debug\net6.0-windows\refint\experiment1.6.dll
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\experiment1.6\experiment1.6\obj\Debug\net6.0-windows\experiment1.6.pdb
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\experiment1.6\experiment1.6\obj\Debug\net6.0-windows\experiment1.6.genruntimeconfig.cache
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\experiment1.6\experiment1.6\obj\Debug\net6.0-windows\ref\experiment1.6.dll

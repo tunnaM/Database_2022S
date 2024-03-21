@@ -1,0 +1,17 @@
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.3\项目文件夹\实验1.3\实验1.3\bin\Debug\net6.0-windows\实验1.3.exe
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.3\项目文件夹\实验1.3\实验1.3\bin\Debug\net6.0-windows\实验1.3.deps.json
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.3\项目文件夹\实验1.3\实验1.3\bin\Debug\net6.0-windows\实验1.3.runtimeconfig.json
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.3\项目文件夹\实验1.3\实验1.3\bin\Debug\net6.0-windows\实验1.3.dll
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.3\项目文件夹\实验1.3\实验1.3\bin\Debug\net6.0-windows\实验1.3.pdb
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.3\项目文件夹\实验1.3\实验1.3\obj\Debug\net6.0-windows\实验1.3.vbproj.AssemblyReference.cache
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.3\项目文件夹\实验1.3\实验1.3\obj\Debug\net6.0-windows\实验1._3.Form1.resources
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.3\项目文件夹\实验1.3\实验1.3\obj\Debug\net6.0-windows\实验1.3.vbproj.GenerateResource.cache
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.3\项目文件夹\实验1.3\实验1.3\obj\Debug\net6.0-windows\实验1.3.GeneratedMSBuildEditorConfig.editorconfig
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.3\项目文件夹\实验1.3\实验1.3\obj\Debug\net6.0-windows\实验1.3.AssemblyInfoInputs.cache
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.3\项目文件夹\实验1.3\实验1.3\obj\Debug\net6.0-windows\实验1.3.AssemblyInfo.vb
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.3\项目文件夹\实验1.3\实验1.3\obj\Debug\net6.0-windows\实验1.3.vbproj.CoreCompileInputs.cache
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.3\项目文件夹\实验1.3\实验1.3\obj\Debug\net6.0-windows\实验1.3.dll
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.3\项目文件夹\实验1.3\实验1.3\obj\Debug\net6.0-windows\refint\实验1.3.dll
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.3\项目文件夹\实验1.3\实验1.3\obj\Debug\net6.0-windows\实验1.3.pdb
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.3\项目文件夹\实验1.3\实验1.3\obj\Debug\net6.0-windows\实验1.3.genruntimeconfig.cache
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.3\项目文件夹\实验1.3\实验1.3\obj\Debug\net6.0-windows\ref\实验1.3.dll

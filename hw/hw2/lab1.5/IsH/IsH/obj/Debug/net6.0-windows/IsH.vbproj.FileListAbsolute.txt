@@ -1,0 +1,17 @@
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\IsH\IsH\bin\Debug\net6.0-windows\IsH.exe
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\IsH\IsH\bin\Debug\net6.0-windows\IsH.deps.json
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\IsH\IsH\bin\Debug\net6.0-windows\IsH.runtimeconfig.json
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\IsH\IsH\bin\Debug\net6.0-windows\IsH.dll
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\IsH\IsH\bin\Debug\net6.0-windows\IsH.pdb
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\IsH\IsH\obj\Debug\net6.0-windows\IsH.vbproj.AssemblyReference.cache
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\IsH\IsH\obj\Debug\net6.0-windows\IsH.Form1.resources
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\IsH\IsH\obj\Debug\net6.0-windows\IsH.vbproj.GenerateResource.cache
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\IsH\IsH\obj\Debug\net6.0-windows\IsH.GeneratedMSBuildEditorConfig.editorconfig
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\IsH\IsH\obj\Debug\net6.0-windows\IsH.AssemblyInfoInputs.cache
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\IsH\IsH\obj\Debug\net6.0-windows\IsH.AssemblyInfo.vb
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\IsH\IsH\obj\Debug\net6.0-windows\IsH.vbproj.CoreCompileInputs.cache
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\IsH\IsH\obj\Debug\net6.0-windows\IsH.dll
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\IsH\IsH\obj\Debug\net6.0-windows\refint\IsH.dll
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\IsH\IsH\obj\Debug\net6.0-windows\IsH.pdb
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\IsH\IsH\obj\Debug\net6.0-windows\IsH.genruntimeconfig.cache
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.5\项目文件夹\IsH\IsH\obj\Debug\net6.0-windows\ref\IsH.dll

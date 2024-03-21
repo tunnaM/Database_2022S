@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 11.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "作业五_2020111235_马靖淳", "作业五_2020111235_马靖淳\作业五_2020111235_马靖淳.ssmssqlproj", "{2A8BC555-87A5-4724-8F5D-32801620FD24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A8BC555-87A5-4724-8F5D-32801620FD24}.Default|Default.ActiveCfg = Default
+		{2E2C614E-28CF-46DC-B04C-56580AFF4B50}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

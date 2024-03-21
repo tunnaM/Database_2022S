@@ -1,0 +1,17 @@
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.1\项目文件夹\实验1.1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.1\项目文件夹\实验1.1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.1\项目文件夹\实验1.1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.1\项目文件夹\实验1.1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.1\项目文件夹\实验1.1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.1\项目文件夹\实验1.1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.1\项目文件夹\实验1.1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.1\项目文件夹\实验1.1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.1\项目文件夹\实验1.1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.1\项目文件夹\实验1.1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.1\项目文件夹\实验1.1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.vb
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.1\项目文件夹\实验1.1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.1\项目文件夹\实验1.1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.1\项目文件夹\实验1.1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.1\项目文件夹\实验1.1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.1\项目文件夹\实验1.1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\大二下\数据库\作业\作业1_2020111235_马靖淳\实验1.1\项目文件夹\实验1.1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll

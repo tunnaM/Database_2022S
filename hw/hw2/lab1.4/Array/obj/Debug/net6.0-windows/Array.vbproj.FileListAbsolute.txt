@@ -1,0 +1,17 @@
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.4\项目文件夹\Array\Array\bin\Debug\net6.0-windows\Array.exe
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.4\项目文件夹\Array\Array\bin\Debug\net6.0-windows\Array.deps.json
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.4\项目文件夹\Array\Array\bin\Debug\net6.0-windows\Array.runtimeconfig.json
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.4\项目文件夹\Array\Array\bin\Debug\net6.0-windows\Array.dll
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.4\项目文件夹\Array\Array\bin\Debug\net6.0-windows\Array.pdb
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.4\项目文件夹\Array\Array\obj\Debug\net6.0-windows\Array.vbproj.AssemblyReference.cache
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.4\项目文件夹\Array\Array\obj\Debug\net6.0-windows\Array.Form1.resources
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.4\项目文件夹\Array\Array\obj\Debug\net6.0-windows\Array.vbproj.GenerateResource.cache
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.4\项目文件夹\Array\Array\obj\Debug\net6.0-windows\Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.4\项目文件夹\Array\Array\obj\Debug\net6.0-windows\Array.AssemblyInfoInputs.cache
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.4\项目文件夹\Array\Array\obj\Debug\net6.0-windows\Array.AssemblyInfo.vb
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.4\项目文件夹\Array\Array\obj\Debug\net6.0-windows\Array.vbproj.CoreCompileInputs.cache
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.4\项目文件夹\Array\Array\obj\Debug\net6.0-windows\Array.dll
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.4\项目文件夹\Array\Array\obj\Debug\net6.0-windows\refint\Array.dll
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.4\项目文件夹\Array\Array\obj\Debug\net6.0-windows\Array.pdb
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.4\项目文件夹\Array\Array\obj\Debug\net6.0-windows\Array.genruntimeconfig.cache
+E:\大二下\数据库\作业\作业2_2020111235_马靖淳\实验1.4\项目文件夹\Array\Array\obj\Debug\net6.0-windows\ref\Array.dll
